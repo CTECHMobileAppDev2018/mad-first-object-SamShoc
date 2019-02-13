@@ -1,6 +1,5 @@
 public class Weapon {
   private String type;
-  private int damage;
   
    public void setWeapon(String weapontype) {
     this.type = weapontype;
